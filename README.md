@@ -12,7 +12,8 @@ W.Avy shared a Hawaii weather sql database file for temperature analysis. This i
 
 ## Deliverable 1: Determine the Summary Statistics for June 
 
-
+![June_temps_summary](Resources/June_temps.png)
 
 
 ## Deliverable 2: Determine the Summary Statistics for December
+![December_temps_summary](Resources/December_temps.png)
